@@ -1,0 +1,15 @@
+.mine{
+    color: green;
+}
+.mine:hover{
+    background-color: yellow;
+}
+.mine:active{
+    color: blue;
+    font-size: 40px;
+}
+.mine:visited{
+    background-color: black;
+    color: purple;
+    font-size: 50px;
+}
